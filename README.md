@@ -1,3 +1,3 @@
 # Acronyms
 
-![Preview](libs/img/Acronyms.gif?raw=true "Title")
+![](https://github.com/aaslanx/Acronyms/blob/master/app/libs/img/Acronyms.gif)
