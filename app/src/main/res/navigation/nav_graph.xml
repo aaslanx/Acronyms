@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/acronymsFragment">
+
+    <fragment
+        android:id="@+id/acronymsFragment"
+        android:name="com.example.acronyms.screens.AcronymsFragment"
+        android:label="fragment_acronyms"
+        tools:layout="@layout/fragment_acronyms" />
+</navigation>

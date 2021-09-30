@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_for">Search For</string>
+    <string name="search">Search</string>
+    <string name="longform">LongForm</string>
+    <string name="frequency">Frequency: </string>
+    <string name="since">Since: </string>
+    <string name="variation">Variation: </string>
+    <string name="error_no_result">There isn\'t any result</string>
+    <string name="show">Show</string>
+</resources>
